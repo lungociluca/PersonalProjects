@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Rus Iulia-Maria\Documents\Facultate\GP\pL\proiectLuca\proiectLuca\main.cpp(175,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rus Iulia-Maria\Documents\Facultate\GP\pL\proiectLuca\proiectLuca\main.cpp(176,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rus Iulia-Maria\Documents\Facultate\GP\pL\proiectLuca\proiectLuca\main.cpp(194,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rus Iulia-Maria\Documents\Facultate\GP\pL\proiectLuca\proiectLuca\main.cpp(308,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  proiectLuca.vcxproj -> C:\Users\Rus Iulia-Maria\Documents\Facultate\GP\pL\proiectLuca\x64\Debug\proiectLuca.exe
