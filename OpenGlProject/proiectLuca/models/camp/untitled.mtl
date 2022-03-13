@@ -1,0 +1,63 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Campfire_Maya_2016:phongE3SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump 1
+map_Kd Textures\\camp_diffuse.jpg
+
+newmtl phongE1SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Textures\\rocks_diffuse.jpg
+map_Ks Textures\\rocks_specular.jpg
+
+newmtl phongE3SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Textures\\woodsground_diffuse.jpg
+map_Ks Textures\\woodsground_specular.jpg
+
+newmtl phongE4SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump 1
+map_Kd Textures\\utensilrope_diffuse.jpg
+map_Ks Textures\\utensilrope_specular.jpg
+
+newmtl useBackground1SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 1
